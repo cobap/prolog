@@ -1,13 +1,3 @@
-% http://www.swi-prolog.org/
-% https://www.ime.usp.br/~slago/slago-prolog.pdf
-% https://repositorium.sdum.uminho.pt/bitstream/1822/7780/1/exercicios-sbc.pdf
-% http://silveiraneto.net/2007/08/29/exemplos-de-prolog/
-% https://en.wikipedia.org/wiki/Prolog
-% http://lpn.swi-prolog.org/lpnpage.php?pagetype=html&pageid=lpn-htmlch1
-% https://pt.wikipedia.org/wiki/Fatorial
-% https://pt.wikipedia.org/wiki/Alain_Colmerauer
-% https://rodrigorgs.github.io/aulas/mata56/aula03-prolog-recursao
-
 
 %Define fatorial de 0 como 1
 fatorial(0,1).
